@@ -1,0 +1,38 @@
+c:\users\dina\documents\visual studio 2017\Projects\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe.config
+c:\users\dina\documents\visual studio 2017\Projects\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe
+c:\users\dina\documents\visual studio 2017\Projects\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.pdb
+c:\users\dina\documents\visual studio 2017\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csprojResolveAssemblyReference.cache
+c:\users\dina\documents\visual studio 2017\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\MainWindow.g.cs
+c:\users\dina\documents\visual studio 2017\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\App.g.cs
+c:\users\dina\documents\visual studio 2017\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer_MarkupCompile.cache
+c:\users\dina\documents\visual studio 2017\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer_MarkupCompile.lref
+c:\users\dina\documents\visual studio 2017\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\MainWindow.baml
+c:\users\dina\documents\visual studio 2017\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.g.resources
+c:\users\dina\documents\visual studio 2017\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.Properties.Resources.resources
+c:\users\dina\documents\visual studio 2017\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.GenerateResource.Cache
+c:\users\dina\documents\visual studio 2017\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.exe
+c:\users\dina\documents\visual studio 2017\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.pdb
+C:\Users\Dina\Documents\Visual Studio 2017\Projects\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Dina\Documents\Visual Studio 2017\Projects\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Dina\Documents\Visual Studio 2017\Projects\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Dina\Documents\Visual Studio 2017\Projects\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe.config
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.pdb
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csprojAssemblyReference.cache
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\MainWindow.g.cs
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\App.g.cs
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer_MarkupCompile.cache
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer_MarkupCompile.lref
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\MainWindow.baml
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.g.resources
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.Properties.Resources.resources
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.GenerateResource.cache
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.CoreCompileInputs.cache
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.CopyComplete
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.exe
+D:\SD\WPF\my Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.pdb

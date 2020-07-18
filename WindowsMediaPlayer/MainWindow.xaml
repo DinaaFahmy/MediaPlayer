@@ -1,0 +1,52 @@
+﻿<Window x:Name="MainWin" x:Class="WindowsMediaPlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WindowsMediaPlayer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="553.7" Width="798.684" Background="#FF141D26" Loaded="MainWin_Loaded">
+
+    <Grid Loaded="Grid_Loaded">
+        <ListBox HorizontalAlignment="Left" Height="290" Margin="580,34,0,0" VerticalAlignment="Top" Width="179" Background="#FF243447" Cursor="Arrow" Name="itemsList" Foreground="White" SelectionChanged="itemsList_SelectionChanged" MouseDoubleClick="itemsList_MouseDoubleClick"/>
+        <Image HorizontalAlignment="Left" Height="55" VerticalAlignment="Top" Width="60" Margin="613,324,0,0" MouseUp="Image_MouseUp" Name="open" Cursor="Hand"/>
+
+        <MediaElement HorizontalAlignment="Left" Height="345" VerticalAlignment="Top" Width="520" Margin="40,34,0,0" Name="media" MediaOpened="media_MediaOpened"/>
+
+        <Slider HorizontalAlignment="Left" Margin="40,401,0,0" VerticalAlignment="Top" Height="29" Width="729" Cursor="Hand" Name="progressBar" ValueChanged="progressBar_ValueChanged"/>
+        <Grid HorizontalAlignment="Left" Height="60" UseLayoutRounding="True" Margin="40,430,0,0" VerticalAlignment="Top" Width="729" Background="#FFA7D129"/>
+        <Image  HorizontalAlignment="Left" Height="36" VerticalAlignment="Top" Width="44" Margin="645,449,0,0" Cursor="Hand" Name="sound" MouseUp="sound_MouseUp"  Stretch="Fill"/>
+        <Slider Name="volSlider"  HorizontalAlignment="Left" Margin="689,454,0,0" VerticalAlignment="Top" Height="36" Width="80" Cursor="Hand" Foreground="Black" OpacityMask="Black" BorderBrush="{x:Null}" Value="50" SmallChange="1" Maximum="100" ValueChanged="volSlider_ValueChanged" TickFrequency="0" LargeChange="5"/>
+        <Image  HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="48" Margin="372,435,0,0" Name="play" MouseUp="play_MouseUp" Cursor="Hand"/>
+        <Image  HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="48" Margin="372,435,0,0" Name="pause" MouseUp="pause_MouseUp" Cursor="Hand"/>
+        <Image  HorizontalAlignment="Left" Height="36" VerticalAlignment="Top" Width="44" Margin="645,449,0,0" Cursor="Hand" Name="soundMuted" MouseUp="soundMuted_MouseUp" Stretch="Fill"/>
+        <Image  HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="48" Margin="443,435,0,0" Name="forward" MouseUp="forward_MouseUp" Cursor="Hand"/>
+        <Image  HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="51" Margin="298,434,0,0" Name="backward" MouseUp="backward_MouseUp" Cursor="Hand" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Label x:Name="lbl" Content="0/0" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="168,445,0,0" RenderTransformOrigin="-0.433,0.511" Width="124" FontSize="16" FontWeight="Bold" FontFamily="Segoe UI Semibold" Height="45"/>
+        <Image HorizontalAlignment="Left" Height="345" Margin="103,34,0,0" VerticalAlignment="Top" Width="358" Name="Mediaimg" />
+        <Image HorizontalAlignment="Left" Height="39" VerticalAlignment="Top" Width="60" Margin="689,340,0,0" MouseUp="del_MouseUp" Name="del" Cursor="Hand"/>
+        <Slider HorizontalAlignment="Left" VerticalAlignment="Top" Height="34" Width="99" Margin="46,440,0,0" Name="speed" ValueChanged="speed_ValueChanged" SmallChange="0.5" TickPlacement="TopLeft" IsDirectionReversed="True" Maximum="3" RenderTransformOrigin="0.5,0.5">
+            <Slider.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Slider.RenderTransform>
+        </Slider>
+        <Label x:Name="speedlbl" Content="speed" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="64,457,0,0" RenderTransformOrigin="-0.433,0.511" Width="56" FontSize="16" FontWeight="Bold" FontFamily="Segoe UI Semibold" Height="45"/>
+        <Image  HorizontalAlignment="Left" Height="40" VerticalAlignment="Top" Width="42" Margin="518,439,0,0" x:Name="stop" MouseUp="stop_MouseUp" Cursor="Hand"/>
+
+
+    </Grid>
+</Window>
